@@ -1,6 +1,5 @@
-import * as fastify from "fastify";
 import * as http from "http";
-import { Db } from "../modules/db";
+import { Db } from "../modules/databases";
 
 declare module "fastify" {
   export interface FastifyInstance<
