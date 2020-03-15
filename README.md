@@ -27,3 +27,7 @@ npm run build
 docker-compose -f docker-compose.production.yaml build
 docker-compose -f docker-compose.production.yaml up
 ```
+
+### Swagger 
+
+`http://localhost:3000/documentation`
