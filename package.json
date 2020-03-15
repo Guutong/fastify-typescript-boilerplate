@@ -19,6 +19,7 @@
     "fastify": "^2.12.1",
     "fastify-blipp": "^2.1.0",
     "fastify-plugin": "^1.6.1",
+    "fastify-swagger": "^2.5.0",
     "jest": "^25.1.0",
     "mongoose": "^5.9.4",
     "source-map-support": "^0.5.16",
@@ -27,6 +28,7 @@
     "typescript": "^3.8.3"
   },
   "devDependencies": {
-    "@types/node": "^13.9.1"
+    "@types/node": "^13.9.1",
+    "@types/source-map-support": "^0.5.1"
   }
 }
