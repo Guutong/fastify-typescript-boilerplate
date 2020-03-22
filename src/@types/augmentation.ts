@@ -7,7 +7,6 @@ declare module "fastify" {
     HttpRequest = http.IncomingMessage,
     HttpResponse = http.ServerResponse
   > {
-      blipp(): void;
       db: Db;
   }
 }
